@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\androidProjectWs\FidRide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\androidProjectWs\FidRide\app\build\intermediates\pre-dexed\debug\classes-4034dc3cb4cdc27e5e7f464017b7f3ca4f66b2ae.jar" />
+    </item>
+    <item
+        jar="E:\androidProjectWs\FidRide\app\build\intermediates\exploded-aar\com.uber.sdk\rides-android\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0ca80842b1a5ee08c30977baae7d84fa27a8b5a">
+        <dex dex="E:\androidProjectWs\FidRide\app\build\intermediates\pre-dexed\debug\classes-208dbbf9161e801c0933705f1128a5cf2279b88a.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="E:\androidProjectWs\FidRide\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-3e7b969eb7e71968e763e1dfaaed82980d676f6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\androidProjectWs\FidRide\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-5b6e99f59b19a2bc714984dea3fb5204a94abe35.jar" />
+    </item>
+    <item
+        jar="E:\androidProjectWs\FidRide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\androidProjectWs\FidRide\app\build\intermediates\pre-dexed\debug\classes-5ce767a219242f7dbd25c6c0fcbc74ec30f7420b.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="E:\androidProjectWs\FidRide\app\build\intermediates\pre-dexed\debug\guava-18.0-96cf963b7cb256bb8ea04894685b547ee0c36b7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="E:\androidProjectWs\FidRide\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-1e11330c58814e86df23792976a2d54030beac24.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="E:\androidProjectWs\FidRide\app\build\intermediates\pre-dexed\debug\google-http-client-1.19.0-386ce2f416ad2d61ede367451ee54cdacdc47c72.jar" />
+    </item>
+    <item
+        jar="C:\Users\cool\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="E:\androidProjectWs\FidRide\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.19.0-7e67e37b5606391bfb081a936b2ffb3899d7e3c9.jar" />
+    </item>
+    <item
+        jar="E:\androidProjectWs\FidRide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\androidProjectWs\FidRide\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-1d25ea149aa01f2b075e56a165344f5310992571.jar" />
+    </item>
+
+</items>
